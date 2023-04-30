@@ -114,13 +114,7 @@
 
 .course__register {
     font-size: 20px;
-    padding: 20px 0 100px 0;
-}
-
-.course__footer {
-    background: #434972;
-    padding: 100px 0 100px 0;
-    font-size: 20px;
+    padding: 20px 0 300px 0;
 }
 
 @media (max-width: 1199px) {
